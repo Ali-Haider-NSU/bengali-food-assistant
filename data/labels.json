@@ -1,0 +1,528 @@
+{
+  "dish": {
+    "alu_bhorta": {
+      "name_en": "Alu Bhorta",
+      "name_bn": "আলু ভর্তা",
+      "photos": 90
+    },
+    "bakorkhani": {
+      "name_en": "Bakorkhani",
+      "name_bn": "বাকরখানি",
+      "photos": 93
+    },
+    "beguni": {
+      "name_en": "Beguni",
+      "name_bn": "বেগুনি",
+      "photos": 144
+    },
+    "bhapa_pitha": {
+      "name_en": "Bhapa Pitha",
+      "name_bn": "ভাপা পিঠা",
+      "photos": 29
+    },
+    "bhat": {
+      "name_en": "Bhat (rice)",
+      "name_bn": "ভাত",
+      "photos": 36
+    },
+    "biriyani": {
+      "name_en": "Biriyani",
+      "name_bn": "বিরিয়ানি",
+      "photos": 76
+    },
+    "cha": {
+      "name_en": "Cha (tea)",
+      "name_bn": "চা",
+      "photos": 32
+    },
+    "chicken_roast": {
+      "name_en": "Chicken Roast",
+      "name_bn": "চিকেন রোস্ট",
+      "photos": 30
+    },
+    "chingri_bhuna": {
+      "name_en": "Chingri Bhuna",
+      "name_bn": "চিংড়ি ভুনা",
+      "photos": 30
+    },
+    "chola_bhuna": {
+      "name_en": "Chola Bhuna",
+      "name_bn": "ছোলা ভুনা",
+      "photos": 24
+    },
+    "chomchom": {
+      "name_en": "Chomchom",
+      "name_bn": "চমচম",
+      "photos": 63
+    },
+    "dal": {
+      "name_en": "Dal",
+      "name_bn": "ডাল",
+      "photos": 45
+    },
+    "dim_bhaja": {
+      "name_en": "Dim Bhaja (omelette)",
+      "name_bn": "ডিম ভাজা",
+      "photos": 461
+    },
+    "dim_curry": {
+      "name_en": "Egg Curry",
+      "name_bn": "ডিমের তরকারি",
+      "photos": 30
+    },
+    "doi": {
+      "name_en": "Doi",
+      "name_bn": "দই",
+      "photos": 104
+    },
+    "fuchka": {
+      "name_en": "Fuchka",
+      "name_bn": "ফুচকা",
+      "photos": 109
+    },
+    "haleem": {
+      "name_en": "Haleem",
+      "name_bn": "হালিম",
+      "photos": 248
+    },
+    "jhalmuri": {
+      "name_en": "Jhalmuri",
+      "name_bn": "ঝালমুড়ি",
+      "photos": 29
+    },
+    "jilapi": {
+      "name_en": "Jilapi",
+      "name_bn": "জিলাপি",
+      "photos": 43
+    },
+    "kabab": {
+      "name_en": "Kabab (other)",
+      "name_bn": "কাবাব",
+      "photos": 292
+    },
+    "kacha_golla": {
+      "name_en": "Kacha Golla",
+      "name_bn": "কাঁচাগোল্লা",
+      "photos": 30
+    },
+    "kala_bhuna": {
+      "name_en": "Kala Bhuna",
+      "name_bn": "কালা ভুনা",
+      "photos": 80
+    },
+    "kalojam": {
+      "name_en": "Kalojam / Golapjam",
+      "name_bn": "কালোজাম / গোলাপজাম",
+      "photos": 18
+    },
+    "khichuri": {
+      "name_en": "Khichuri",
+      "name_bn": "খিচুড়ি",
+      "photos": 189
+    },
+    "kotkoti": {
+      "name_en": "Kotkoti",
+      "name_bn": "কটকটি",
+      "photos": 34
+    },
+    "morog_polao": {
+      "name_en": "Morog Polao",
+      "name_bn": "মোরগ পোলাও",
+      "photos": 110
+    },
+    "mutton_leg_roast": {
+      "name_en": "Mutton Leg Roast",
+      "name_bn": "খাসির রান রোস্ট",
+      "photos": 49
+    },
+    "nehari": {
+      "name_en": "Nehari",
+      "name_bn": "নেহারি",
+      "photos": 233
+    },
+    "nokshi_pitha": {
+      "name_en": "Nokshi Pitha",
+      "name_bn": "নকশি পিঠা",
+      "photos": 44
+    },
+    "payesh": {
+      "name_en": "Payesh",
+      "name_bn": "পায়েস",
+      "photos": 17
+    },
+    "peyaju": {
+      "name_en": "Peyaju",
+      "name_bn": "পেঁয়াজু",
+      "photos": 38
+    },
+    "porota": {
+      "name_en": "Porota",
+      "name_bn": "পরোটা",
+      "photos": 140
+    },
+    "puli_pitha": {
+      "name_en": "Puli Pitha",
+      "name_bn": "পুলি পিঠা",
+      "photos": 44
+    },
+    "roshgolla": {
+      "name_en": "Roshgolla",
+      "name_bn": "রসগোল্লা",
+      "photos": 300
+    },
+    "roshmalai": {
+      "name_en": "Roshmalai",
+      "name_bn": "রসমালাই",
+      "photos": 108
+    },
+    "rupchanda_fry": {
+      "name_en": "Rupchanda Fry",
+      "name_bn": "রূপচাঁদা ভাজা",
+      "photos": 39
+    },
+    "sajer_pitha": {
+      "name_en": "Sajer Pitha",
+      "name_bn": "সাজের পিঠা",
+      "photos": 25
+    },
+    "shami_kabab": {
+      "name_en": "Shami Kabab",
+      "name_bn": "শামি কাবাব",
+      "photos": 49
+    },
+    "shemai": {
+      "name_en": "Shemai",
+      "name_bn": "সেমাই",
+      "photos": 34
+    },
+    "shorshe_ilish": {
+      "name_en": "Shorshe Ilish",
+      "name_bn": "সরষে ইলিশ",
+      "photos": 31
+    },
+    "singara": {
+      "name_en": "Singara",
+      "name_bn": "সিঙ্গারা",
+      "photos": 30
+    },
+    "sondesh": {
+      "name_en": "Sondesh",
+      "name_bn": "সন্দেশ",
+      "photos": 37
+    },
+    "tikka": {
+      "name_en": "Tikka Kabab",
+      "name_bn": "টিক্কা কাবাব",
+      "photos": 47
+    }
+  },
+  "ingredient": {
+    "ajwain": {
+      "name_en": "Ajwain",
+      "name_bn": "আজওয়াইন",
+      "photos": 90
+    },
+    "akarkara": {
+      "name_en": "Akarkara",
+      "name_bn": "আকাঙ্গি",
+      "photos": 139
+    },
+    "allspice": {
+      "name_en": "Allspice",
+      "name_bn": "সফেদজায়ফল ফুল (কবাব চিনি)",
+      "photos": 118
+    },
+    "alu_bokhara": {
+      "name_en": "Plum",
+      "name_bn": "আলু বোখারা",
+      "photos": 55
+    },
+    "bay_leaf": {
+      "name_en": "Bay Leaf",
+      "name_bn": "তেজপাতা",
+      "photos": 181
+    },
+    "black_cardamom": {
+      "name_en": "Black Cardamom",
+      "name_bn": "বড় এলাচ",
+      "photos": 132
+    },
+    "black_catechu": {
+      "name_en": "Black Catechu",
+      "name_bn": "বড় কাতিলা",
+      "photos": 130
+    },
+    "black_pepper": {
+      "name_en": "Black Pepper",
+      "name_bn": "কালো গোলমরিচ",
+      "photos": 86
+    },
+    "black_pepper_powder": {
+      "name_en": "Black Pepper Powder",
+      "name_bn": "কালো মরিচ গুঁড়া",
+      "photos": 83
+    },
+    "black_sesame_seed": {
+      "name_en": "Black Sesame Seed",
+      "name_bn": "কালো তিল",
+      "photos": 103
+    },
+    "brown_mustard_seed": {
+      "name_en": "BrownBlack Mustard Seed",
+      "name_bn": "সরিষা (কালোবাদামি)",
+      "photos": 114
+    },
+    "ceylon_cinnamon": {
+      "name_en": "Ceylon Cinnamon",
+      "name_bn": "শ্রীলংকা দারুচিনি",
+      "photos": 54
+    },
+    "chili_flakes": {
+      "name_en": "Chili Flakes",
+      "name_bn": "লাল মরিচ ভাঙ্গা",
+      "photos": 112
+    },
+    "chui_jhal": {
+      "name_en": "Piper Chaba",
+      "name_bn": "চুই ঝাল",
+      "photos": 123
+    },
+    "cinnamon": {
+      "name_en": "Cinnamon",
+      "name_bn": "দারুচিনি",
+      "photos": 261
+    },
+    "cinnamon_powder": {
+      "name_en": "Cinnamon Powder",
+      "name_bn": "দারুচিনি গুঁড়া",
+      "photos": 80
+    },
+    "clove": {
+      "name_en": "Clove",
+      "name_bn": "লবঙ্গ",
+      "photos": 174
+    },
+    "coriander_powder": {
+      "name_en": "Coriander Powder",
+      "name_bn": "ধনে গুঁড়া",
+      "photos": 100
+    },
+    "coriander_seed": {
+      "name_en": "Coriander Seed",
+      "name_bn": "ধনে দানা",
+      "photos": 130
+    },
+    "cumin": {
+      "name_en": "Cumin",
+      "name_bn": "জিরা",
+      "photos": 212
+    },
+    "cumin_powder": {
+      "name_en": "Cumin Powder",
+      "name_bn": "জিরা গুঁড়া",
+      "photos": 107
+    },
+    "curry_leaf_powder": {
+      "name_en": "Curry leaf powder",
+      "name_bn": "কারিপাতা গুড়া",
+      "photos": 111
+    },
+    "dried_red_chili": {
+      "name_en": "Dried Red Chili",
+      "name_bn": "শুকনা লাল মরিচ",
+      "photos": 67
+    },
+    "dry_ginger": {
+      "name_en": "Dry Ginger",
+      "name_bn": "শুকনা আদা (সুঁঠ)",
+      "photos": 150
+    },
+    "fennel_seed": {
+      "name_en": "Fennel Seed",
+      "name_bn": "মৌরি",
+      "photos": 131
+    },
+    "fenugreek_seed": {
+      "name_en": "Fenugreek Seed",
+      "name_bn": "মেথি দানা",
+      "photos": 181
+    },
+    "garam_masala": {
+      "name_en": "Garam Masala",
+      "name_bn": "গরম মসলা",
+      "photos": 71
+    },
+    "garlic": {
+      "name_en": "Garlic",
+      "name_bn": "রসুন",
+      "photos": 65
+    },
+    "ginger": {
+      "name_en": "Ginger",
+      "name_bn": "সতেজ আদা",
+      "photos": 43
+    },
+    "green_cardamom": {
+      "name_en": "Green Cardamom",
+      "name_bn": "সবুজ এলাচ",
+      "photos": 160
+    },
+    "jhal_boch": {
+      "name_en": "Jhal boch",
+      "name_bn": "ঝাল বচ",
+      "photos": 60
+    },
+    "licorice_powder": {
+      "name_en": "Licorice Powder",
+      "name_bn": "যষ্টিমধু গুঁড়া",
+      "photos": 79
+    },
+    "licorice_root": {
+      "name_en": "Licorice Root",
+      "name_bn": "যষ্টিমধু",
+      "photos": 176
+    },
+    "long_pepper": {
+      "name_en": "Long Pepper",
+      "name_bn": "লম্বা গোল মরিচ",
+      "photos": 175
+    },
+    "mace": {
+      "name_en": "Mace",
+      "name_bn": "জয়ত্রী",
+      "photos": 163
+    },
+    "nigella_seed": {
+      "name_en": "Nigella Seed",
+      "name_bn": "কালোজিরা",
+      "photos": 182
+    },
+    "nutmeg": {
+      "name_en": "Nutmeg",
+      "name_bn": "জয়ফল",
+      "photos": 149
+    },
+    "nutmeg_powder": {
+      "name_en": "Nutmeg Powder",
+      "name_bn": "জয়ফল গুঁড়া",
+      "photos": 45
+    },
+    "panch_phoron": {
+      "name_en": "Panch Phoron",
+      "name_bn": "পাঁচফোড়ন",
+      "photos": 107
+    },
+    "paprika": {
+      "name_en": "Paprika",
+      "name_bn": "পাপরিকা",
+      "photos": 102
+    },
+    "pink_salt": {
+      "name_en": "Pink Salt",
+      "name_bn": "লাল লবন",
+      "photos": 71
+    },
+    "poppy_seed": {
+      "name_en": "Poppy Seed",
+      "name_bn": "পোস্তদানা",
+      "photos": 44
+    },
+    "radhuni": {
+      "name_en": "Radhuni",
+      "name_bn": "রাধুনি",
+      "photos": 160
+    },
+    "red_chili_powder": {
+      "name_en": "Red chili Powder",
+      "name_bn": "লাল মরিচ গুঁড়া",
+      "photos": 129
+    },
+    "saffron": {
+      "name_en": "Saffron",
+      "name_bn": "জাফরান",
+      "photos": 52
+    },
+    "shahi_jeera": {
+      "name_en": "Caraway",
+      "name_bn": "শাহী জিরা",
+      "photos": 189
+    },
+    "small_catechu": {
+      "name_en": "Small Catechu",
+      "name_bn": "ছোট কাতিলা",
+      "photos": 86
+    },
+    "star_anise": {
+      "name_en": "Star Anise",
+      "name_bn": "স্টার এলাচ",
+      "photos": 188
+    },
+    "turmeric": {
+      "name_en": "Turmeric",
+      "name_bn": "হলুদ",
+      "photos": 134
+    },
+    "turmeric_powder": {
+      "name_en": "Turmeric Powder",
+      "name_bn": "হলুদ গুঁড়া",
+      "photos": 178
+    },
+    "white_pepper": {
+      "name_en": "White Pepper",
+      "name_bn": "সাদা গোলমরিচ",
+      "photos": 81
+    },
+    "white_pepper_powder": {
+      "name_en": "White Pepper Powder",
+      "name_bn": "সাদামরিচ গুঁড়া",
+      "photos": 68
+    },
+    "white_sesame_seed": {
+      "name_en": "White Sesame Seed",
+      "name_bn": "সাদা তিল",
+      "photos": 158
+    },
+    "yellow_cardamom": {
+      "name_en": "Yellow Cardamom",
+      "name_bn": "হলুদ এলাচ",
+      "photos": 107
+    },
+    "yellow_mustard_seed": {
+      "name_en": "Yellow Mustard Seed",
+      "name_bn": "সরিষা (হলুদ)",
+      "photos": 260
+    }
+  },
+  "ood": {
+    "burger": {
+      "name_en": "Burger",
+      "name_bn": "বার্গার",
+      "photos": 56
+    },
+    "chowmein": {
+      "name_en": "Chowmein",
+      "name_bn": "চাউমিন",
+      "photos": 39
+    },
+    "french_fries": {
+      "name_en": "French Fries",
+      "name_bn": "ফ্রেঞ্চ ফ্রাই",
+      "photos": 41
+    },
+    "fried_chicken": {
+      "name_en": "Fried Chicken",
+      "name_bn": "ফ্রাইড চিকেন",
+      "photos": 48
+    },
+    "pizza": {
+      "name_en": "Pizza",
+      "name_bn": "পিজা",
+      "photos": 50
+    },
+    "shawarma": {
+      "name_en": "Shawarma",
+      "name_bn": "শর্মা",
+      "photos": 40
+    }
+  }
+}
