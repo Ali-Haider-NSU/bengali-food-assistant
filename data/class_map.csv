@@ -1,0 +1,132 @@
+﻿task,source_class,photos,id,name_en,name_bn,action,note
+dish,Alu Vorta,28,alu_bhorta,Alu Bhorta,আলু ভর্তা,keep,merged with mashed_potato
+dish,Bakorkhani,93,bakorkhani,Bakorkhani,বাকরখানি,keep,
+dish,Balosai,7,balushahi,Balushahi,বালুশাই,drop,only 7 photos: collect 25+ to keep
+dish,Bhapa,29,bhapa_pitha,Bhapa Pitha,ভাপা পিঠা,keep,check: folder is bhapa pitha
+dish,Burger,56,burger,Burger,বার্গার,ood,not Bengali: use as out-of-domain example
+dish,Chicken,18,chicken,Chicken,মুরগি,drop,vague label: check what it contains
+dish,Chicken Roast,30,chicken_roast,Chicken Roast,চিকেন রোস্ট,keep,
+dish,Chingri Vuna,30,chingri_bhuna,Chingri Bhuna,চিংড়ি ভুনা,keep,
+dish,Chomchom,33,chomchom,Chomchom,চমচম,keep,variants merged
+dish,Chowmein,39,chowmein,Chowmein,চাউমিন,ood,not traditional Bengali: or keep if you want it
+dish,Cream Jam,5,kalojam,Kalojam / Golapjam,কালোজাম / গোলাপজাম,keep,jam family merged; only 18 photos: add more
+dish,Dal,45,dal,Dal,ডাল,keep,
+dish,Doi,6,doi,Doi,দই,keep,merged with yogurt
+dish,Dudh Puli PItha,9,puli_pitha,Puli Pitha,পুলি পিঠা,keep,merged into puli_pitha
+dish,Egg Curry,30,dim_curry,Egg Curry,ডিমের তরকারি,keep,
+dish,Faluda,7,faluda,Faluda,ফালুদা,drop,only 7 photos: collect 25+ to keep
+dish,French Fries,41,french_fries,French Fries,ফ্রেঞ্চ ফ্রাই,ood,not Bengali
+dish,Fried Chicken,48,fried_chicken,Fried Chicken,ফ্রাইড চিকেন,ood,not Bengali
+dish,Fuchka,109,fuchka,Fuchka,ফুচকা,keep,
+dish,Golap Jam,7,kalojam,Kalojam / Golapjam,কালোজাম / গোলাপজাম,keep,merged into kalojam
+dish,Hafsi Sondesh,8,sondesh,Sondesh,সন্দেশ,keep,merged into sondesh
+dish,Jalebi,23,jilapi,Jilapi,জিলাপি,keep,"same dish, two spellings"
+dish,Jhalmuri,29,jhalmuri,Jhalmuri,ঝালমুড়ি,keep,
+dish,Jilapi,20,jilapi,Jilapi,জিলাপি,keep,
+dish,Kacha  Chana,7,kacha_golla,Kacha Golla,কাঁচাগোল্লা,keep,check: fresh chhana looks similar
+dish,Kacha Golla,12,kacha_golla,Kacha Golla,কাঁচাগোল্লা,keep,
+dish,Kalojam,6,kalojam,Kalojam / Golapjam,কালোজাম / গোলাপজাম,keep,merged into kalojam
+dish,Kasmiri Chomchom,11,chomchom,Chomchom,চমচম,keep,merged into chomchom
+dish,Kotkoti,34,kotkoti,Kotkoti,কটকটি,keep,
+dish,Lemon Barfi,14,lemon_barfi,Lemon Barfi,লেমন বরফি,drop,only 14 photos
+dish,Malaikari,12,malaikari,Malaikari,মালাইকারি,check,check: sweet or chingri malaikari? only 12 photos
+dish,Maoyaa Laddo,6,mawa_laddu,Mawa Laddu,মাওয়া লাড্ডু,drop,only 6 photos
+dish,Morog Polao,30,morog_polao,Morog Polao,মোরগ পোলাও,keep,
+dish,Mutton Leg Roast,49,mutton_leg_roast,Mutton Leg Roast,খাসির রান রোস্ট,keep,
+dish,Nokshi Pitha,44,nokshi_pitha,Nokshi Pitha,নকশি পিঠা,keep,
+dish,Pakon Pitha,14,pakon_pitha,Pakon Pitha,পাকন পিঠা,drop,only 14 photos
+dish,Paratha,30,porota,Porota,পরোটা,keep,merged with porota
+dish,Patishapta,7,patishapta,Patishapta,পাটিসাপটা,drop,"only 7 photos: iconic, worth collecting"
+dish,Payesh,17,payesh,Payesh,পায়েস,keep,only 17 photos: add more
+dish,Pera Sondesh,29,sondesh,Sondesh,সন্দেশ,keep,
+dish,Peyaju,38,peyaju,Peyaju,পেঁয়াজু,keep,
+dish,Pizza,50,pizza,Pizza,পিজা,ood,not Bengali
+dish,Puli Pitha,35,puli_pitha,Puli Pitha,পুলি পিঠা,keep,
+dish,Rajvog,10,roshgolla,Roshgolla,রসগোল্লা,keep,rajbhog merged into roshgolla
+dish,Ravogsai,9,ravogsai,Ravogsai,রাভোগসাই,check,check: which sweet is this? only 9 photos
+dish,Rice,36,bhat,Bhat (rice),ভাত,keep,
+dish,Roshmalai,108,roshmalai,Roshmalai,রসমালাই,keep,
+dish,Rupchanda Fry,39,rupchanda_fry,Rupchanda Fry,রূপচাঁদা ভাজা,keep,
+dish,S.P.Chomchom,10,chomchom,Chomchom,চমচম,keep,merged into chomchom
+dish,Sada Chomchom,9,chomchom,Chomchom,চমচম,keep,merged into chomchom
+dish,Sajer Pitha,25,sajer_pitha,Sajer Pitha,সাজের পিঠা,keep,
+dish,Shami Kabab,49,shami_kabab,Shami Kabab,শামি কাবাব,keep,
+dish,Shamok Pitha,14,shamuk_pitha,Shamuk Pitha,শামুক পিঠা,drop,only 14 photos
+dish,Shawarma,40,shawarma,Shawarma,শর্মা,ood,not Bengali
+dish,Shemai,34,shemai,Shemai,সেমাই,keep,
+dish,Shorshe Ilish,31,shorshe_ilish,Shorshe Ilish,সরষে ইলিশ,keep,
+dish,Singara,30,singara,Singara,সিঙ্গারা,keep,
+dish,Tea,32,cha,Cha (tea),চা,keep,
+dish,Tikka,47,tikka,Tikka Kabab,টিক্কা কাবাব,keep,
+dish,beguni,144,beguni,Beguni,বেগুনি,keep,
+dish,biriyani,76,biriyani,Biriyani,বিরিয়ানি,keep,
+dish,chickpeas,24,chola_bhuna,Chola Bhuna,ছোলা ভুনা,keep,24 photos: add a few
+dish,egg_omlete,461,dim_bhaja,Dim Bhaja (omelette),ডিম ভাজা,keep,large: capped later
+dish,haleem,248,haleem,Haleem,হালিম,keep,
+dish,hilsha_fish,249,ilish,Ilish (other dishes),ইলিশ মাছ,check,check: move shorshe ilish photos to Shorshe Ilish; rest = other ilish dishes
+dish,kabab,292,kabab,Kabab (other),কাবাব,keep,check: may contain shami/tikka photos
+dish,kacha_golla,11,kacha_golla,Kacha Golla,কাঁচাগোল্লা,keep,"same dish, two folders"
+dish,kala_bhuna,80,kala_bhuna,Kala Bhuna,কালা ভুনা,keep,
+dish,khichuri,189,khichuri,Khichuri,খিচুড়ি,keep,
+dish,mashed_potato,62,alu_bhorta,Alu Bhorta,আলু ভর্তা,keep,"check: Bengali bhorta, not western mash"
+dish,morog_polao,80,morog_polao,Morog Polao,মোরগ পোলাও,keep,"same dish, two folders"
+dish,nehari,233,nehari,Nehari,নেহারি,keep,
+dish,porota,110,porota,Porota,পরোটা,keep,
+dish,roshgolla,290,roshgolla,Roshgolla,রসগোল্লা,keep,
+dish,yogurt,98,doi,Doi,দই,keep,check: Bengali doi (mishti/tok)
+ingredient,1. Turmeric (হলুদ),134,turmeric,Turmeric,হলুদ,keep,
+ingredient,10. Nigella Seed (কালোজিরা),182,nigella_seed,Nigella Seed,কালোজিরা,keep,
+ingredient,11. Yellow Mustard Seed (সরিষা (হলুদ)),260,yellow_mustard_seed,Yellow Mustard Seed,সরিষা (হলুদ),keep,
+ingredient,12. BrownBlack Mustard Seed (সরিষা (কালোবাদামি)),114,brown_mustard_seed,BrownBlack Mustard Seed,সরিষা (কালোবাদামি),keep,
+ingredient,13. Fenugreek Seed (মেথি দানা),181,fenugreek_seed,Fenugreek Seed,মেথি দানা,keep,
+ingredient,14. Curry leaf powder (কারিপাতা গুড়া),111,curry_leaf_powder,Curry leaf powder,কারিপাতা গুড়া,keep,
+ingredient,15. Fennel Seed (মৌরি),131,fennel_seed,Fennel Seed,মৌরি,keep,
+ingredient,16. Ajwain (Carom Seed) (আজওয়াইন),90,ajwain,Ajwain,আজওয়াইন,keep,
+ingredient,17. Radhuni (রাধুনি),160,radhuni,Radhuni,রাধুনি,keep,
+ingredient,18. Poppy Seed (পোস্তদানা),44,poppy_seed,Poppy Seed,পোস্তদানা,keep,
+ingredient,19. Yellow Cardamom(হলুদ এলাচ),107,yellow_cardamom,Yellow Cardamom,হলুদ এলাচ,keep,
+ingredient,2. Dried Red Chili (শুকনা লাল মরিচ),67,dried_red_chili,Dried Red Chili,শুকনা লাল মরিচ,keep,
+ingredient,20. Green Cardamom (সবুজ এলাচ),160,green_cardamom,Green Cardamom,সবুজ এলাচ,keep,
+ingredient,21. Black Cardamom (বড় এলাচ),132,black_cardamom,Black Cardamom,বড় এলাচ,keep,
+ingredient,22. Cinnamon (দারুচিনি),261,cinnamon,Cinnamon,দারুচিনি,keep,
+ingredient,23. Black Sesame Seed (কালো তিল),103,black_sesame_seed,Black Sesame Seed,কালো তিল,keep,
+ingredient,24. White Sesame Seed (সাদা তিল),158,white_sesame_seed,White Sesame Seed,সাদা তিল,keep,
+ingredient,25. Bay Leaf (তেজপাতা),181,bay_leaf,Bay Leaf,তেজপাতা,keep,
+ingredient,26. Nutmeg (জয়ফল),149,nutmeg,Nutmeg,জয়ফল,keep,
+ingredient,27. Mace (জয়ত্রী),163,mace,Mace,জয়ত্রী,keep,
+ingredient,28. Star Anise (স্টার এলাচ),188,star_anise,Star Anise,স্টার এলাচ,keep,
+ingredient,29. Caraway (Shahi Jeera) (শাহী জিরা),189,shahi_jeera,Caraway,শাহী জিরা,keep,
+ingredient,3. Paprika (পাপরিকা),102,paprika,Paprika,পাপরিকা,keep,
+ingredient,30. Allspice (Kababa Chini) (সফেদজায়ফল ফুল (কবাব চিনি)),118,allspice,Allspice,সফেদজায়ফল ফুল (কবাব চিনি),keep,
+ingredient,31. Saffron(জাফরান),52,saffron,Saffron,জাফরান,keep,
+ingredient,32. Ginger (সতেজ আদা),43,ginger,Ginger,সতেজ আদা,keep,
+ingredient,33. Dry Ginger (শুকনা আদা (সুঁঠ)),150,dry_ginger,Dry Ginger,শুকনা আদা (সুঁঠ),keep,
+ingredient,34. Clove (লবঙ্গ),174,clove,Clove,লবঙ্গ,keep,
+ingredient,35. Garlic (রসুন),54,garlic,Garlic,রসুন,keep,
+ingredient,36. Indian Garlic (ইন্ডিয়ান রসুন),11,garlic,Garlic,রসুন,keep,merged into garlic (only 11 photos)
+ingredient,37. Cinnamon Powder (দারুচিনি গুঁড়া),80,cinnamon_powder,Cinnamon Powder,দারুচিনি গুঁড়া,keep,verify: biryani masala copies were in here
+ingredient,39. Long Pepper(Pipul)(লম্বা গোল মরিচ ),175,long_pepper,Long Pepper,লম্বা গোল মরিচ,keep,
+ingredient,4. Black Pepper (কালো গোলমরিচ),86,black_pepper,Black Pepper,কালো গোলমরিচ,keep,
+ingredient,40. White Pepper Powder (সাদামরিচ গুঁড়া),68,white_pepper_powder,White Pepper Powder,সাদামরিচ গুঁড়া,keep,
+ingredient,41. Black Pepper Powder (কালো মরিচ গুঁড়া),83,black_pepper_powder,Black Pepper Powder,কালো মরিচ গুঁড়া,keep,
+ingredient,42. Red chili Powder (লাল মরিচ গুঁড়া),129,red_chili_powder,Red chili Powder,লাল মরিচ গুঁড়া,keep,
+ingredient,43. Chili Flakes (লাল মরিচ ভাঙ্গা),112,chili_flakes,Chili Flakes,লাল মরিচ ভাঙ্গা,keep,
+ingredient,44. Turmeric Powder (হলুদ গুঁড়া),178,turmeric_powder,Turmeric Powder,হলুদ গুঁড়া,keep,
+ingredient,45. Jhal boch(ঝাল বচ),60,jhal_boch,Jhal boch,ঝাল বচ,keep,
+ingredient,46. Plum ( আলু বোখারা),55,alu_bokhara,Plum,আলু বোখারা,keep,
+ingredient,48. Panch Phoron(5-spice blend)(পাঁচফোড়ন),107,panch_phoron,Panch Phoron,পাঁচফোড়ন,keep,
+ingredient,49. Garam Masala(blend)(গরম মসলা),71,garam_masala,Garam Masala,গরম মসলা,keep,
+ingredient,5. White Pepper (সাদা গোলমরিচ),81,white_pepper,White Pepper,সাদা গোলমরিচ,keep,
+ingredient,51. Pink Salt(লাল লবন),71,pink_salt,Pink Salt,লাল লবন,keep,
+ingredient,52. Nutmeg Powder(জয়ফল গুঁড়া),45,nutmeg_powder,Nutmeg Powder,জয়ফল গুঁড়া,keep,
+ingredient,54. Small Catechu(Pale Catechu)(ছোট কাতিলা),86,small_catechu,Small Catechu,ছোট কাতিলা,keep,
+ingredient,55. Black Catechu (বড় কাতিলা),130,black_catechu,Black Catechu,বড় কাতিলা,keep,
+ingredient,56. Ceylon Cinnamon( শ্রীলংকা দারুচিনি),54,ceylon_cinnamon,Ceylon Cinnamon,শ্রীলংকা দারুচিনি,keep,
+ingredient,57. Piper Chaba (চুই ঝাল),123,chui_jhal,Piper Chaba,চুই ঝাল,keep,
+ingredient,58. Licorice Root(যষ্টিমধু),176,licorice_root,Licorice Root,যষ্টিমধু,keep,
+ingredient,59. Licorice Powder (যষ্টিমধু গুঁড়া),79,licorice_powder,Licorice Powder,যষ্টিমধু গুঁড়া,keep,
+ingredient,6. Coriander Seed (ধনে দানা),130,coriander_seed,Coriander Seed,ধনে দানা,keep,
+ingredient,60. Akarkara(আকাঙ্গি),139,akarkara,Akarkara,আকাঙ্গি,keep,
+ingredient,7. Coriander Powder (ধনে গুঁড়া),100,coriander_powder,Coriander Powder,ধনে গুঁড়া,keep,
+ingredient,8. Cumin (জিরা),212,cumin,Cumin,জিরা,keep,
+ingredient,9. Cumin Powder (জিরা গুঁড়া),107,cumin_powder,Cumin Powder,জিরা গুঁড়া,keep,

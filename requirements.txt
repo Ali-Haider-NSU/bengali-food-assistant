@@ -3,3 +3,4 @@ rapidfuzz>=3.0
 gradio>=5.0
 python-dotenv>=1.0
 pytest>=8.0
+imagehash>=4.3

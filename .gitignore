@@ -229,3 +229,11 @@ __marimo__/
 *.webm
 data/raw/
 data/clips/
+data/raw
+
+# generated data (never commit)
+data/raw
+data/images/
+data/*.zip
+data/dedup_review.html
+data/mixed_groups.txt
